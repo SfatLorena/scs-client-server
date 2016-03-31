@@ -1,0 +1,5 @@
+D:\C#\ClientServer\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\C#\ClientServer\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\C#\ClientServer\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\C#\ClientServer\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\C#\ClientServer\ClientApp\ClientApp\obj\Debug\ClientApp.pdb

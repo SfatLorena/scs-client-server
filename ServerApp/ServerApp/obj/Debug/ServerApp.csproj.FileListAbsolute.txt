@@ -1,0 +1,6 @@
+D:\C#\ClientServer\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+D:\C#\ClientServer\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+D:\C#\ClientServer\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+D:\C#\ClientServer\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+D:\C#\ClientServer\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+D:\C#\ClientServer\ServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
